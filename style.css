@@ -1,0 +1,102 @@
+#H1{
+    position: absolute;
+    left: 720px;
+    top: 255px;
+    font-size: 25px;
+}
+
+#H2 {
+    position: absolute;
+    left: 600px;
+    top: 300px;
+    font-size: 20px;
+}
+
+#Foto {
+    position: absolute;
+    width: 250px;
+    height: 260px;
+    left: 650px;
+    top: 3px;
+}
+
+.StyledContainer {
+    padding: 35px;
+    position: absolute;
+    top: 350px;
+    left: 320px;
+    text-align: center;
+}
+
+#Forma {
+    background-color: black;
+    width: 900px;
+    height: 60px;
+    letter-spacing: 5px;
+    border-radius: 20px;
+    font-size: 35px;
+}
+
+.StyledContainer2 {
+    padding: 45px;
+    position: absolute;
+    top: 450px;
+    left: 310px;
+    text-align: center;
+}
+
+#Forma2 {
+    background-color: black;
+    width: 900px;
+    height: 60px;
+    letter-spacing: 5px;
+    border-radius: 20px;
+    font-size: 35px;
+}
+
+.StyledContainer3 {
+    padding: 55px;
+    position: absolute;
+    top: 550px;
+    left: 300px;
+    text-align: center;
+   
+}
+
+#Forma3 {
+    background-color:black;
+    width: 900px;
+    height: 60px;
+    letter-spacing: 5px;
+    border-radius: 20px;
+    font-size: 35px;
+}
+
+
+#Insta{
+    position: absolute;
+    width: 85px;
+    height: 80px;
+    left: 250px;
+    top: 375px;
+}
+
+#zap{
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 255px;
+    top: 490px;
+}
+
+#discord{
+    position: absolute;
+    width: 70px;
+    height: 80px;
+    left: 255px;
+    top: 595px;
+}
+
+
+
+
