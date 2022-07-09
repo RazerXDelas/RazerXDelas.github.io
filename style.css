@@ -5,13 +5,31 @@
     font-size: 25px;
 }
 
-#H2 {
+#P1 {
     position: absolute;
     left: 550px;
     top: 300px;
     font-size: 150%;
     font-size: 22px;
 }
+
+#P2 {
+    position: absolute;
+    left: 703px;
+    top: 297px;
+    font-size: 150%;
+    font-size: 22px;
+}
+
+#P3 {
+    position: absolute;
+    left: 740px;
+    top: 300px;
+    font-size: 150%;
+    font-size: 22px;
+}
+
+
 
 #Foto {
     position: absolute;
