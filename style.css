@@ -5,6 +5,7 @@
     font-size: 25px;
 }
 
+
 #P1 {
     position: absolute;
     left: 550px;
@@ -15,15 +16,15 @@
 
 #P2 {
     position: absolute;
-    left: 703px;
-    top: 297px;
+    left: 700px;
+    top: 298px;
     font-size: 150%;
     font-size: 22px;
 }
 
 #P3 {
     position: absolute;
-    left: 740px;
+    left: 732px;
     top: 300px;
     font-size: 150%;
     font-size: 22px;
@@ -31,11 +32,12 @@
 
 #P4 {
     position: absolute;
-    left: 870px;
+    left: 860px;
     top: 300px;
     font-size: 150%;
     font-size: 22px;
 }
+
 
 
 #Foto {
