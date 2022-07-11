@@ -1,0 +1,153 @@
+#H1 {
+    position: absolute;
+    left: 720px;
+    top: 255px;
+    font-size: 25px;
+}
+
+#P1 {
+    position: absolute;
+    left: 550px;
+    top: 300px;
+    font-size: 150%;
+    font-size: 22px;
+}
+
+#P2 {
+    position: absolute;
+    left: 700px;
+    top: 298px;
+    font-size: 150%;
+    font-size: 22px;
+}
+
+#P3 {
+    position: absolute;
+    left: 732px;
+    top: 300px;
+    font-size: 150%;
+    font-size: 22px;
+}
+
+#P4 {
+    position: absolute;
+    left: 860px;
+    top: 300px;
+    font-size: 150%;
+    font-size: 22px;
+}
+
+#Foto {
+    position: absolute;
+    width: 250px;
+    height: 260px;
+    left: 650px;
+    top: 3px;
+}
+
+.StyledContainer {
+    padding: 35px;
+    position: absolute;
+    top: 350px;
+    left: 320px;
+    text-align: center;
+}
+
+#Forma:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+#Forma:hover {
+    background-color: #353535;
+    /* Green */
+    color: white;
+}
+
+#Forma {
+    background-color: #292522;
+    width: 900px;
+    height: 60px;
+    letter-spacing: 5px;
+    border-radius: 30px;
+    font-size: 35px;
+}
+
+.StyledContainer2 {
+    padding: 45px;
+    position: absolute;
+    top: 450px;
+    left: 310px;
+    text-align: center;
+}
+
+#Forma2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+#Forma2:hover {
+    background-color: #353535;
+    /* Green */
+    color: white;
+}
+
+#Forma2 {
+    background-color:  #292522;
+    width: 900px;
+    height: 60px;
+    letter-spacing: 5px;
+    border-radius: 30px;
+    font-size: 35px;
+}
+
+.StyledContainer3 {
+    padding: 55px;
+    position: absolute;
+    top: 550px;
+    left: 300px;
+    text-align: center;
+
+}
+
+#Forma3:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19)
+}
+
+#Forma3:hover {
+    background-color: #353535;
+    /* Green */
+    color: white;
+}
+
+#Forma3 {
+    background-color:  #292522;
+    width: 900px;
+    height: 60px;
+    letter-spacing: 5px;
+    border-radius: 30px;
+    font-size: 35px;
+}
+
+
+#Insta {
+    position: absolute;
+    width: 76px;
+    height: 75px;
+    left: 250px;
+    top: 375px;
+}
+
+#zap {
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 255px;
+    top: 490px;
+}
+
+#discord {
+    position: absolute;
+    width: 70px;
+    height: 80px;
+    left: 255px;
+    top: 595px;
+}
